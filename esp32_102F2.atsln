@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "esp32_102F2", "esp32_102F2.cppproj", "{EB1FD5B6-64DC-47DC-AC2F-237B2A32D92E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB1FD5B6-64DC-47DC-AC2F-237B2A32D92E}.Debug|ARM.ActiveCfg = Debug|ARM
+		{EB1FD5B6-64DC-47DC-AC2F-237B2A32D92E}.Debug|ARM.Build.0 = Debug|ARM
+		{EB1FD5B6-64DC-47DC-AC2F-237B2A32D92E}.Release|ARM.ActiveCfg = Release|ARM
+		{EB1FD5B6-64DC-47DC-AC2F-237B2A32D92E}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
